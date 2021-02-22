@@ -1,0 +1,9 @@
+{
+  "name": "zenn-articles",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sera1mu/zenn-articles.git"
+  },
+  "author": "Seraimu <ifrea0281@gmail.com>",
+  "license": "CC-BY-NC-4.0"
+}
