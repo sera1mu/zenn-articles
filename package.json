@@ -5,5 +5,8 @@
     "url": "git+https://github.com/sera1mu/zenn-articles.git"
   },
   "author": "Seraimu <ifrea0281@gmail.com>",
-  "license": "CC-BY-NC-4.0"
+  "license": "CC-BY-NC-4.0",
+  "dependencies": {
+    "zenn-cli": "^0.1.73"
+  }
 }
